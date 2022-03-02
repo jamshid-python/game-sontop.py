@@ -1,3 +1,3 @@
 # game-sontop.py
-Son topish o'yini
+# Son topish o'yini
 https://github.com/jamshid-python/
